@@ -7,4 +7,6 @@ No recomienda ningún voto. Hecha con inteligencia artificial; puede tener error
 - `afinidad.html`: test de afinidad (todo se calcula en el navegador; no se guarda ni se envía nada).
 - `comparar.html`: comparador de dos partidos.
 
+**Web:** https://novenube.github.io/guia-programas-29n/
+
 Son tres ficheros HTML sin dependencias externas: funcionan abriéndolos en el navegador o desde cualquier alojamiento estático.
